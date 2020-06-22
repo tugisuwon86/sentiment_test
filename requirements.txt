@@ -255,7 +255,6 @@ win-inet-pton==1.1.0
 win-unicode-console==0.5
 wincertstore==0.2
 wrapt==1.12.1
-xlwings==0.18.0
 xlwt==1.3.0
 xmltodict==0.12.0
 yapf==0.28.0
