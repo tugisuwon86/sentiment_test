@@ -44,8 +44,6 @@ Deprecated==1.2.10
 diff-match-patch==20181111
 distributed==2.11.0
 docutils==0.15.2
-dtaidistance==1.2.3
-en-vectors-web-lg==2.1.0
 entrypoints==0.3
 enum-compat==0.0.3
 et-xmlfile==1.0.1
