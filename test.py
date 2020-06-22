@@ -1,11 +1,9 @@
 import streamlit as st
 import pandas as pd
-from sklearn import datasets
 import pickle
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 import joblib
 
-@st.cache
 def load_model():
     
     # load model
